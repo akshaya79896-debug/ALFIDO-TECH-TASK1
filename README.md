@@ -12,7 +12,7 @@ Frontend Developer Intern at Alfido Tech
 - 💻 **GitHub Repository:** https://github.com/akshaya79896-debug/portfolio-website
 - 📄 **Documentation:** [View Documentation](DOCUMENTATION%20TASK1.pdf)
 
-##Project Overview:
+Project Overview:
 -----------------
 This project is a fully responsive personal portfolio website developed using
 HTML5, CSS3, Bootstrap 5, and JavaScript. The website showcases personal
