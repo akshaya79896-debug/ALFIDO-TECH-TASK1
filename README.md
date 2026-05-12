@@ -31,7 +31,7 @@ portfolio-website/
 |-- index.html
 |-- style.css
 |-- profile.jpg
-|-- README.txt
+|-- README.md
 
 Technologies Used:
 ------------------
