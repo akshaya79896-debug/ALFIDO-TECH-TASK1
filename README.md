@@ -10,7 +10,7 @@ Frontend Developer Intern at Alfido Tech
 
 - 🌐 **Live Demo:** https://akshaya79896-debug.github.io/ALFIDO-TECH-TASK1/
 - 💻 **GitHub Repository:** https://github.com/akshaya79896-debug/ALFIDO-TECH-TASK1
-- 📄 **Documentation:** [View Documentation](DOCUMENTATION%20TASK1.pdf)
+- 📄 **Documentation:** [View Documentation](DOCUMENTATION%20TASK1.docx)
 
 Project Overview:
 -----------------
